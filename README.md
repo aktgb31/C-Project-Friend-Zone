@@ -11,3 +11,9 @@ This program contains following features:
 7 Editing profile options.
 
 The project contains main program and three support files used for storing data.
+1 main.cpp
+2 DB.DAT
+3 MESSAGE.DAT
+4 ONLINE.DAT
+
+Note:- File names are case sensitive.
